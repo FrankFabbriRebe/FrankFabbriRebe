@@ -1,6 +1,5 @@
 ### Hi, my name is FrancescoFabbriRebecchi
-Junior Web Developer 
-Based in Italy 🌍
+Junior Web Developer based in Italy 🌍
 
 - 📫 How to reach me: rebecchi.ff@gmail.com
 
