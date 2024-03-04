@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, my name is FrancescoFabbriRebecchi
+Junior Web Developer 
+Based in Italy 🌍
+
+- 📫 How to reach me: rebecchi.ff@gmail.com
 
 <!--
 **FrankFabbriRebe/FrankFabbriRebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
