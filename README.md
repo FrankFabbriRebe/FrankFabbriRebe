@@ -1,4 +1,4 @@
-# Hi, my name is FrancescoFabbriRebecchi
+# Hi there 👋🏻 , my name is Francesco Fabbri Rebecchi
 ## Jr. Full Stack Web Developer based in Italy 🌍
 
 - 📫 How to reach me: rebecchi.ff@gmail.com
