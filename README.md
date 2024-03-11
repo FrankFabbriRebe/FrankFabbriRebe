@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 # Hi, my name is FrancescoFabbriRebecchi
 ## Junior Web Developer based in Italy 🌍
@@ -21,9 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<h3 align="center">A passionate fronted developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
